@@ -1,5 +1,7 @@
 import React from "react";
 
-const App = () => <h1>Hello</h1>;
+import Search from "./Search"
+
+const App = () => <Search />;
 
 export default App;
